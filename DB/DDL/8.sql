@@ -1,0 +1,2 @@
+ALTER TABLE airline
+DROP COLUMN info;
